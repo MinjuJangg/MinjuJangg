@@ -4,9 +4,9 @@
 <!--                        HERO SECTION                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=300&section=header&text=MINKWAN%20WON&fontSize=90&fontAlignY=35&desc=Frontend%20Architect%20%7C%20UX%20Engineer%20%7C%20Digital%20Craftsman&descSize=25&descAlignY=55&animation=twinkling"/> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,24&height=300&section=header&text=MINJU%20JANG&fontSize=90&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Multimodal%20%7C%20Generative%20AI&descSize=25&descAlignY=55&animation=twinkling"/> 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3&height=300&section=header&text=MINJU&fontSize=90&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Multimodal%20%20%7C%20Generative%20AI &descSize=25&descAlignY=55&animation=twinkling"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3&height=300&section=header&text=MINJU&fontSize=90&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Multimodal%20%20%7C%20Generative%20AI &descSize=25&descAlignY=55&animation=twinkling"/> -->
 <!-- Animated Typing Header -->
 <a href="https://github.com/MinjuJangg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=🧠+Domain-Driven+AI+Systems;🤖+Custom+Decision+AX+with+Generative+AI;🚀+Turning+Domain+Knowledge+into+Automation" alt="Typing SVG" />
@@ -118,34 +118,43 @@ const developer = {
 
 ## 🛠️ Tech Stack
 
-💻 Languages
+### 💻 Languages
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
-🧠 AI / ML
+---
+
+### 🧠 Deep Learning & Frameworks
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-💾 Data & Infrastructure
+---
+
+### 🤖 LLM & Agentic AI
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dify-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge" />
 </p>
 
+---
 
+### ⚙️ Infrastructure & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    GITHUB STATS SECTION                              -->
@@ -236,7 +245,7 @@ const developer = {
 <a href="https://github.com/MinjuJangg">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-<a href="https://your-cv-link.pdf">
+<a href="https://www.notion.so/304083450f6f80b9a6d5e114401f41f5?source=copy_link">
   <img src="https://img.shields.io/badge/CV-222222?style=flat-square&logo=readme&logoColor=white" />
 </a>
 </p>
