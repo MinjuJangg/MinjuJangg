@@ -77,7 +77,8 @@ const developer = {
 
 ### 💼 Research & Industry Experience
 
-- <img src="https://img.shields.io/badge/N-03C75A?style=flat&logoColor=white" height="10"/>  **NAVER — AI/ML Engineer Intern** (2025.11 – 2025.12)  
+- <img src="https://img.shields.io/badge/N-03C75A?style=flat&logoColor=white" height="10"/>  **NAVER — AI/ML Engineer Intern** (2025.11 – 2025.12)
+    
   Persona-based agent QA automation and evaluation pipelines
 
 - 🎓 **Yonsei University -  Smart Systems Lab (M.S.)**  (2024.03 – 2026.02)
@@ -85,7 +86,8 @@ const developer = {
   Domain-driven multimodal AI systems including RAG-based regulatory QA, protein dense captioning, sign-language generation, and document intelligence pipelines etc. 
 
 
-- 🦾 **Dongguk University · Simulation-based Optimization Lab (Research Intern)** (2023.02 – 2023.06)  
+- 🦾 **Dongguk University - Simulation-based Optimization Lab (Research Intern)** (2023.02 – 2023.06)
+  
   Applied federated learning to production automation systems 
   (2023 KIIE Conference)
 
@@ -103,7 +105,7 @@ const developer = {
 
   YOLO-based smart farm monitoring system for crop growth analysis  
 
-- 🥉 **Encouragement Award – ICIP & Convergence Capstone Design**  (2023.12)
+- 🥉 **Encouragement Award – Dongguk University ICIP & Convergence Capstone Design**  (2023.12)
 
   IoT-based emergency monitoring system for single-person households  
 
@@ -121,10 +123,10 @@ const developer = {
 ### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
