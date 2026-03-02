@@ -247,8 +247,8 @@ const developer = {
 <a href="https://github.com/MinjuJangg">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-<a href="https://www.notion.so/304083450f6f80b9a6d5e114401f41f5?source=copy_link">
-  <img src="https://img.shields.io/badge/CV-222222?style=flat-square&logo=readme&logoColor=white" />
+<!-- <a href="https://www.notion.so/304083450f6f80b9a6d5e114401f41f5?source=copy_link">
+  <img src="https://img.shields.io/badge/CV-222222?style=flat-square&logo=readme&logoColor=white" /> -->
 </a>
 </p>
 
