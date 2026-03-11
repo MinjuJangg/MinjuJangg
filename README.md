@@ -4,9 +4,9 @@
 <!--                        HERO SECTION                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,24&height=300&section=header&text=MINJU%20JANG&fontSize=90&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Multimodal%20%7C%20Generative%20AI&descSize=25&descAlignY=55&animation=twinkling"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,18,24&height=300&section=header&text=MINJU%20JANG&fontSize=90&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Multimodal%20%7C%20Generative%20AI&descSize=25&descAlignY=55"/> 
 
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3&height=300&section=header&text=MINJU&fontSize=90&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Multimodal%20%20%7C%20Generative%20AI &descSize=25&descAlignY=55&animation=twinkling"/> -->
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3&height=300&section=header&text=MINJU&fontSize=90&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Multimodal%20%20%7C%20Generative%20AI &descSize=25&descAlignY=55"/> -->
 <!-- Animated Typing Header -->
 <a href="https://github.com/MinjuJangg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=🧠+Domain-Driven+AI+Systems;🤖+Custom+Decision+AX+with+Generative+AI;🚀+Turning+Domain+Knowledge+into+Automation" alt="Typing SVG" />
