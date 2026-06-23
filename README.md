@@ -156,6 +156,15 @@ const developer = {
 
 ---
 
+### 🌐 Web & Backend Frameworks
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+</p>
+
+---
+
 ### ⚙️ Infrastructure & DevOps
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -163,6 +172,12 @@ const developer = {
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+
+
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    GITHUB STATS SECTION                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -185,6 +200,7 @@ const developer = {
 ## 📜 Certifications & English
 
 <p>
+<img src="https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/ADsP-FF6F00?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/OPIC(IH)-00897B?style=for-the-badge&logoColor=white" />
 </p>
