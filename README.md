@@ -258,11 +258,11 @@ const developer = {
 <!--                    GITHUB STATS SECTION                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="52%" src="https://github-readme-stats.vercel.app/api?username=MinjuJangg&show_icons=true&rank_icon=github&theme=default"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjuJangg&layout=compact&theme=default"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjuJangg&layout=compact&theme=default"/> -->
 
 </div>
 
