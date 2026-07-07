@@ -114,6 +114,10 @@ const developer = {
 
   IoT-based emergency monitoring system for single-person households  
 
+- 🥇 **1st Place – SSAFY AI Challenge**
+
+  Recyclable waste image-based VQA model, ranked 1st among 193 teams nationwide  
+
 ## 📌 Projects
 
 - [Ingrid](https://github.com/MinjuJangg/ingrid) - Supplement comparison and recommendation service based on health goals and purchase priorities
