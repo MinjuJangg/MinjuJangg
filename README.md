@@ -116,19 +116,19 @@ const developer = {
 
 ## 📌 Projects
 
-- [인그리드 (Ingrid)](https://github.com/MinjuJangg/ingrid) - 건강 목표와 구매 우선순위 기반 영양제 비교 및 추천 서비스
-- [허가온 (HEOGAON)](https://github.com/MinjuJangg/HEOGAONv3) - 소상공인을 위한 AI 인허가 사전 진단 서비스
-- [재활용품 이미지 기반 VQA 모델 (Recyclable Waste VQA)](https://github.com/MinjuJangg/ai_chall) - 재활용품 이미지와 질문을 기반으로 정답을 예측하는 VQA 모델
-- [프로틴덴스 (ProteinDense)](https://github.com/MinjuJangg/ProteinDense) - 도메인 정보를 활용한 단백질 기능 요약 생성 시스템
-- [식품 안전 RAG-QA (Food Safety RAG-QA)](https://github.com/MinjuJangg/Food_safety) - 수입식품 안전 문서 기반 RAG QA 시스템
-- [수어 생성 모델 (Sign Language Generator)](https://github.com/MinjuJangg/sign_language_generation) - Pose 기반 수어 이미지 프레임 생성 모델
-- [생성 유전자 탐색기 (Generative Gene Finder)](https://github.com/MinjuJangg/Generative_Gene_Finder) - 돌연변이 경로 시뮬레이션 기반 생성 유전자 탐색 프레임워크
-- [FathomNet 세부 분류 모델 (FGVC FathomNet Classification)](https://github.com/MinjuJangg/FGVC-Fathomnet-classification) - 주변 환경 정보를 고려한 해양 생물 세부 분류 모델
-- [한국어 표 인식 (Table Recognition)](https://github.com/MinjuJangg/Table_recognition) - 한국어 표 인식을 위한 UniTable 및 OCR 결합 프로젝트
-- [의도 분석 (Intent Analysis)](https://github.com/MinjuJangg/intent_analysis) - 한국어 Intent Classification 및 Slot Filling 모델
-- [위협 우선순위 판단 (Threat Priority Estimation)](https://github.com/MinjuJangg/priority_threat) - 객체 탐지 기반 무인전차 위협 우선순위 판단 알고리즘
-- [산업 현장 이미지 생성기 (Text2Image Shinhan)](https://github.com/MinjuJangg/Text2Image_shinhan) - 한국어 프롬프트 기반 이미지 생성 및 배경 제거 파이프라인
-- [연합학습 로봇 제어 (FederatedLearning-Robot)](https://github.com/MinjuJangg/FederatedLearning-Robot) - 연합학습 기반 생산 자동화 로봇 제어 프로젝트
+- [인그리드 (Ingrid)](https://github.com/MinjuJangg/ingrid) - A supplement comparison and recommendation service based on health goals and purchase priorities
+- [허가온 (HEOGAON)](https://github.com/MinjuJangg/HEOGAONv3) - An AI-powered pre-diagnosis service for small business licensing procedures
+- [재활용품 이미지 기반 VQA 모델 (Recyclable Waste VQA)](https://github.com/MinjuJangg/ai_chall) - A VQA model that predicts answers from recyclable waste images and natural-language questions
+- [프로틴덴스 (ProteinDense)](https://github.com/MinjuJangg/ProteinDense) - A domain-aware protein function captioning system
+- [식품 안전 RAG-QA (Food Safety RAG-QA)](https://github.com/MinjuJangg/Food_safety) - A RAG-based QA system for imported food safety documents
+- [수어 생성 모델 (Sign Language Generator)](https://github.com/MinjuJangg/sign_language_generation) - A pose-conditioned model for generating sign-language image frames
+- [생성 유전자 탐색기 (Generative Gene Finder)](https://github.com/MinjuJangg/Generative_Gene_Finder) - A generative gene discovery framework based on mutation path simulation
+- [FathomNet 세부 분류 모델 (FGVC FathomNet Classification)](https://github.com/MinjuJangg/FGVC-Fathomnet-classification) - A fine-grained marine species classification model using surrounding environmental context
+- [한국어 표 인식 (Table Recognition)](https://github.com/MinjuJangg/Table_recognition) - A Korean table recognition project combining UniTable with OCR engines
+- [의도 분석 (Intent Analysis)](https://github.com/MinjuJangg/intent_analysis) - A Korean intent classification and slot filling model
+- [위협 우선순위 판단 (Threat Priority Estimation)](https://github.com/MinjuJangg/priority_threat) - An object-detection-based threat priority estimation algorithm for unmanned tanks
+- [산업 현장 이미지 생성기 (Text2Image Shinhan)](https://github.com/MinjuJangg/Text2Image_shinhan) - A Korean prompt-based image generation and background removal pipeline
+- [연합학습 로봇 제어 (FederatedLearning-Robot)](https://github.com/MinjuJangg/FederatedLearning-Robot) - A federated-learning-based robot control project for production automation
 
 
 </td>
