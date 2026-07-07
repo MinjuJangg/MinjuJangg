@@ -123,7 +123,7 @@ const developer = {
 - [Ingrid](https://github.com/MinjuJangg/ingrid) - Supplement comparison and recommendation service based on health goals and purchase priorities
 - [HEOGAON 허가온](https://github.com/MinjuJangg/HEOGAONv3) - AI-powered licensing pre-diagnosis service for small business owners
 - [Recyclable Waste VQA](https://github.com/MinjuJangg/ai_chall) - VQA model for answering questions about recyclable waste images
-- [ProteinDense](https://github.com/MinjuJangg/ProteinDense) - Domain-aware protein function captioning system
+- [ProteinDense(ICBCB2026)](https://github.com/MinjuJangg/ProteinDense) - Domain-aware protein function captioning system 
 - [Food Safety RAG-QA](https://github.com/MinjuJangg/Food_safety) - RAG-based QA system for imported food safety documents
 - [Sign Language Generator](https://github.com/MinjuJangg/sign_language_generation) - Pose-conditioned model for generating sign-language image frames
 - [Generative Gene Finder](https://github.com/MinjuJangg/Generative_Gene_Finder) - Generative gene discovery framework based on mutation path simulation
