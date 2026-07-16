@@ -116,7 +116,7 @@ const developer = {
 
 - 🥇 **1st Place – SSAFY AI Challenge**  (2026.04)
 
-  Recyclable waste image-based VQA model, ranked 1st among 193 teams nationwide  
+  Recyclable waste image-based VQA model, ranked 1st among 193 teams
 
 ## 📌 Projects
 
